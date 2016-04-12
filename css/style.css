@@ -1,0 +1,113 @@
+body {
+  background: #FF007F;
+}
+
+.container {
+  width: 600px;
+  margin: 50px auto 0 auto;
+  text-align: center;
+}
+
+.container img {
+  width: 75%;
+}
+
+h1 {
+  font-family: 'Give You Glory', cursive;;
+  font-size: 40px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 100;
+  line-height: 22px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+input {
+  height: 50px;
+  width: 200px;
+  margin-right: 20px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.form {
+  margin: 10px;
+  font-family: 'La Belle Aurore', cursive;
+  padding: 50px;
+}
+
+#answer {
+  font-size: 80px;
+  color: cyan;
+  font-family: 'La Belle Aurore', cursive;
+}
+
+#shoes-submit {
+  font-size: 20px;
+  color: #8B4789;
+  font-family: 'La Belle Aurore', cursive;
+  margin: 20px;
+  text-align: center;
+  padding: 20px;
+}
+
+#cars-submit {
+  font-size: 20px;
+  color: #8B4789;
+  font-family: 'La Belle Aurore', cursive;
+  margin: 20px;
+  text-align: center;
+  padding: 20px;
+}
+
+#number-submit {
+  font-size: 20px;
+  color: #8B4789;
+  font-family: 'La Belle Aurore', cursive;
+  margin: 20px;
+  text-align: center;
+  padding: 20px;
+}
+
+#word-submit {
+  font-size: 20px;
+  color: #8B4789;
+  font-family: 'La Belle Aurore', cursive;
+  margin: 20px;
+  text-align: center;
+  padding: 20px;
+}
+
+
+
+#shoes {
+  font-family: 'La Belle Aurore', cursive;
+  text-align: center;
+  text-decoration: italic;
+  font-size: 22px
+}
+
+#cars {
+  font-family: 'La Belle Aurore', cursive;
+  text-align: center;
+  text-decoration: italic;
+  font-size: 22px
+}
+
+#math {
+  font-family: 'La Belle Aurore', cursive;
+  text-align: center;
+  text-decoration: italic;
+  font-size: 22px
+}
+
+#color {
+  font-family: 'La Belle Aurore', cursive;
+  text-align: center;
+  text-decoration: italic;
+  font-size: 22px
+}
+
+.hide {
+  display: none;
+}
